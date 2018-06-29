@@ -1,0 +1,10 @@
+[http]
+httpport = 18082
+[queue]
+addr=192.168.2.22:6379
+[mongodb]
+url = mongodb://127.0.0.1:27017
+[redis]
+addr=192.168.2.22:6379
+[log]
+path=./
